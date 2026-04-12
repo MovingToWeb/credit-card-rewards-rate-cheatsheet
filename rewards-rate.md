@@ -49,3 +49,6 @@ Best card/gateway to use for each spend category to maximize cashback and reward
 | Utility and bill payments | HSBC Premier | 3% | Cumulative 1L spend p.m | |
 | Flights | HSBC Premier | 18% | | |
 | Hotels | HSBC Premier | 36% | | |
+| International Spends | HSBC Premier | 3%-0.99% |  | Forex markup 0.99% (extremely low) |
+| Restaurants | HSBC Premier | EazyDiner 30% Off |  |  |
+
