@@ -11,6 +11,7 @@ Best card/gateway to use for each spend category to maximize cashback and reward
 | Utility Bill Payment | Airtel Axis | 10% | 250 | via Airtel Thanks app |
 | Swiggy Zomato BB | Airtel Axis | 10% | 500 | |
 | JioFiber | Amazon Pay | 2% | - | Amazon Vouchers + Pay via Amazon Pay |
+| JioMart | Amazon Pay | 2% | - | Amazon Vouchers + Pay via Amazon Pay or Use HSBC Live+ |
 | Groceries | Diners Black | 3.33% | 2000 RP p.m | |
 | Insurance Premium | Diners Black | 3.33% | 5000 RP per day | |
 | Flights, Train, Bus | SmartBuy | 5% | | |
