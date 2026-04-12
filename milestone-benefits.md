@@ -18,6 +18,8 @@
 | Axis Rewards | > 30k p.m | 1500 RP | 300 |
 | Emerald Private | > 4L p.y | 3000₹ ease my trip voucher | |
 | Emerald Private | Renewal benefit | EazyDiner Prime membership | |
+| HSBC Premier | Annual benefit | EazyDiner Prime membership | |
+
 
 ## DCB Redemption Info
 
