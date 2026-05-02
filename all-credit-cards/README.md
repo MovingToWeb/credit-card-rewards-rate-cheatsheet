@@ -8,6 +8,8 @@
 | [📱 best-cards-for-upi.md](all-credit-cards/best-cards-for-upi.md) | 📱 Best Credit Cards for UPI Payments |
 | [⛽ best-cards-for-fuel-savings.md](all-credit-cards/best-cards-for-fuel-savings.md) | ⛽ Best Credit Cards for Fuel Savings |
 | [🛒 best-cards-for-grocery.md](all-credit-cards/best-cards-for-grocery.md) | 🛒 Best Credit Cards for Grocery Purchases |
+| [🍔 best-cards-for-food-delivery.md](all-credit-cards/best-cards-for-food-delivery.md) | 🍔 Best Credit Cards for Food Delivery |
+| [🛍️ best-cards-for-online-shopping.md](all-credit-cards/best-cards-for-online-shopping.md) | 🛍️ Best Credit Cards for Online Shopping |
 | [🛡️ best-cards-for-insurance-payments.md](all-credit-cards/best-cards-for-insurance-payments.md) | 🛡️ Best Credit Cards for Insurance Payments |
 | [✈️ best-cards-for-domestic-travel.md](all-credit-cards/best-cards-for-domestic-travel.md) | ✈️ Best Credit Cards for Domestic Travel |
 | [🌏 best-cards-for-international-travel.md](all-credit-cards/best-cards-for-international-travel.md) | 🌏 Best Credit Cards for International Travel |
