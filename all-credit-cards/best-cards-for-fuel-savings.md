@@ -11,4 +11,4 @@
 | HPCL | ICICI HPCL Super Saver Credit Card | Rs. 500 | 6% | 4% cashback + 1.5% loyalty | Rs. 200 | 1 Loyalty = Rs. 0.25 |
 | HPCL | HPCL IDFC FIRST Power+ Credit Card | Rs. 499 | 6% | 24 Reward points per Rs. 150 | 2,400 Reward points | 1 RP = Rs. 0.25 |
 | BPCL | BPCL SBI Card | Rs. 499 | 4.25% | 13 Reward points per Rs. 100 | 1,300 Reward points | 1 RP = Rs. 0.25 |
-| BPCL | BPCL SBI Card Octane | Rs. 1,499 | 7.25% | 25 Reward points per Rs. 100 | 2,500 Reward points | 1 RP = Rs. 0.25 |
+| BPCL | BPCL SBI Card Octane | Rs. 1,499 | 7.25% ⭐ | 25 Reward points per Rs. 100 | 2,500 Reward points | 1 RP = Rs. 0.25 |
